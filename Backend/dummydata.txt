@@ -14,3 +14,12 @@ user2
     "email": "arpitkhanulia7@gmail.com",
     "password": "arpitPass@123"
 }
+
+
+user3
+
+{
+    "username": "Rishabh Rana",
+    "email": "rishu2nd@gmail.com",
+    "password": "Rishabhrana@123"
+}
